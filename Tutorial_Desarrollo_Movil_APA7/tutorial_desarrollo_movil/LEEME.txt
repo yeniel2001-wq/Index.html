@@ -1,0 +1,13 @@
+TUTORIAL DE DESARROLLO MÓVIL
+
+Estructura:
+- index.html: contenido y estructura del sitio.
+- css/estilos.css: diseño visual y adaptación a pantallas.
+- js/app.js: menú móvil, buscador, modo oscuro, botón copiar y cuestionario.
+
+Cómo abrir:
+1. Extrae la carpeta del archivo ZIP.
+2. Abre index.html en un navegador.
+3. Para editar, abre la carpeta completa en Visual Studio Code.
+
+No requiere instalación ni servidor para la navegación básica. La tipografía externa se carga desde Google Fonts cuando hay conexión.
